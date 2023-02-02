@@ -10,4 +10,4 @@ Automated Accident Reporting with Drones and Advanced Technologies is a cutting-
 - MPU6050
 - Arduino Uno
 - GPS/GSM
-- Tempruture `included inside the MPU6050`
+- Tempruture Sensor `included inside the MPU6050`
