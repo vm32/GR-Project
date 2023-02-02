@@ -26,7 +26,9 @@ Automated Accident Reporting with Drones and Advanced Technologies is a cutting-
     digitalWrite(2,LOW);  
     delay(100);
     };
-  
+ 
+<img width='50%' src='https://img001.prntscr.com/file/img001/8LoVwwFRTzOrRGZwK_exgg.png'/>
+
 2- by measure any change in Rotation by the gyro
 
     if (g.gyro.y > 0.45) { 
