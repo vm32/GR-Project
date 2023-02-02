@@ -11,3 +11,45 @@ Automated Accident Reporting with Drones and Advanced Technologies is a cutting-
 - Arduino Uno
 - GPS/GSM
 - Tempruture Sensor `included inside the MPU6050`
+
+## How to detect the accident using MPU6050 
+
+1- by measure any change in accelerometer 
+
+    if (a.acceleration.x > 0.06) { 
+    digitalWrite(4, HIGH);
+    digitalWrite(2,LOW); 
+    delay(100);
+    Serial.print("Accident detect on acceleration : "); 
+    Serial.print(a.acceleration.x);                    
+    digitalWrite(4, LOW);
+    digitalWrite(2,LOW);  
+    delay(100);
+    };
+  
+2- by measure any change in Rotation by the gyro
+
+    if (g.gyro.y > 0.45) { 
+    digitalWrite(4, HIGH);
+    digitalWrite(2,LOW); 
+    delay(100);
+    Serial.print("Accident detect on gyro  : "); 
+    Serial.print(g.gyro.y);                    
+    digitalWrite(4, LOW);
+    digitalWrite(2,LOW);  
+    delay(100);
+    };
+    
+ 3- by measure any change in temperature 
+
+    if (temp.temperature > 45) { 
+    digitalWrite(4, HIGH);
+    digitalWrite(2,LOW); 
+    delay(100);
+    Serial.print("temprature is HIGH   : "); 
+    Serial.print(temp.temperature);                    
+    digitalWrite(4, LOW);
+    digitalWrite(2,LOW);  
+    delay(100);
+    };
+  
