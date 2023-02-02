@@ -39,7 +39,9 @@ Automated Accident Reporting with Drones and Advanced Technologies is a cutting-
     digitalWrite(2,LOW);  
     delay(100);
     };
-    
+ 
+<img width='50%' src='https://img001.prntscr.com/file/img001/GRhQyPLESw6kxD3F0_3fJQ.png'/>
+
  3- by measure any change in temperature 
  
     if (temp.temperature > 45) { 
