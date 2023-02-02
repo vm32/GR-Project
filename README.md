@@ -3,3 +3,11 @@ Automated Accident Reporting with Drones and Advanced Technologies is a cutting-
 
 ## Block Diagram of the Project
 <img width='100%' src='https://img001.prntscr.com/file/img001/qhsreyFZTXC3yQcBY01kug.png'/>
+
+
+## Hardware used 
+
+- MPU6050
+- Arduino Uno
+- GPS/GSM
+- Tempruture `included inside the MPU6050`
