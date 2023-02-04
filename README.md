@@ -60,3 +60,4 @@ Automated Accident Reporting with Drones and Advanced Technologies is a cutting-
 <img width='50%' src='https://img001.prntscr.com/file/img001/7QWsx3l3QdeilpaXLUOuYg.png'/>
 
 ## Drone usage 
+in this project we use the drone to go to the accident and scan it 360 degree and using AI convert the scanned video to 3d model 
