@@ -61,7 +61,9 @@ Automated Accident Reporting with Drones and Advanced Technologies is a cutting-
 
 ## cloud side  
 Front-end `using Github Pages`
+
 <img width='50%' src='https://img001.prntscr.com/file/img001/ShpI3edLSVKgu5-Ut5p0sg.png'/>
 
 Back-end `using Github Pages`
+
 <img width='50%' src='https://img001.prntscr.com/file/img001/2oWur0Y-SKOqoCYATWw5TQ.png'/>
