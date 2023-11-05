@@ -9,6 +9,7 @@ Automated Accident Reporting with Drones and Advanced Technologies is a cutting-
 
 - MPU6050
 - Arduino Uno
+- pixhawk flight controller `Drone MC`    
 - GPS/GSM
 - Temperature Sensor `included inside the MPU6050`
 - Arduino Uno (R3).
