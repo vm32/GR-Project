@@ -7,33 +7,33 @@ Automated Accident Reporting with Drones and Advanced Technologies is a cutting-
 
 ## Hardware used 
 
-• MPU6050
-• Arduino Uno
-• GPS/GSM
-• Tempruture Sensor `included inside the MPU6050`
-• Arduino Uno (R3).
-• Accelerometer Sensor.
-• Temperature sensor.
-• GPS/GSM Module.
-• RC Power Supply Distribution Board.
-• Quadcopter Frame.
-• Flight Controller.
-• Remote Controller.
-• EWRF Drone Camera.
-• GPS Antenna.
-• Radio Telemetry.
-• Brushless Motors.
-• 40A Brushless ESC.
-• 4 Pairs Quadcopters Multirotor.
-• 4s Lipo battery 5000.
-• Smart Balance Lipo Charger.
+- MPU6050
+- Arduino Uno
+- GPS/GSM
+- Temperature Sensor `included inside the MPU6050`
+- Arduino Uno (R3).
+- Accelerometer Sensor.
+- Temperature sensor.
+- GPS/GSM Module.
+- RC Power Supply Distribution Board.
+- Quadcopter Frame.
+- Flight Controller.
+- Remote Controller.
+- EWRF Drone Camera.
+- GPS Antenna.
+- Radio Telemetry.
+- Brushless Motors.
+- 40A Brushless ESC.
+- 4 Pairs Quadcopters Multirotor.
+- 4s Lipo battery 5000.
+- Smart Balance Lipo Charger.
 
 ## Software Requirements
-• Arduino Platform (Open-Source IDE).
-• Thinker CAD (Open-Source Simulation Platform).
-• Microsoft Visual Studio Code (Open-Source Framework).
-• Mission Planner (Open-Source Drone Simulation).
-• QGraoundControl (Open-Source Drone Calibration).
+- Arduino Platform (Open-Source IDE).
+-  Thinker CAD (Open-Source Simulation Platform).
+- Microsoft Visual Studio Code (Open-Source Framework).
+- Mission Planner (Open-Source Drone Simulation).
+- QGraoundControl (Open-Source Drone Calibration).
 
 ## How to detect the accident using MPU6050 
 
