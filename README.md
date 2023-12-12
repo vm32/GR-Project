@@ -6,7 +6,6 @@ Automated Accident Reporting with Drones and Advanced Technologies is a cutting-
 
 
 ## Hardware used 
-
 - MPU6050
 - Arduino Uno
 - pixhawk flight controller `Drone MC`    
